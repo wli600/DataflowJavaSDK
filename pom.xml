@@ -38,7 +38,7 @@
   <version>1.8.0-wp1-SNAPSHOT</version>
 
   <scm>
-    <developerConnection>scm:git:git@github.devops.wepay-inc.com:WeiLi/GoogleDataflowSDK.git</developerConnection>
+    <developerConnection>scm:git:git@github.devops.wepay-inc.com:risk/GoogleDataflowSDK.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
